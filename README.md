@@ -106,6 +106,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/codewithmirza/codewithmirza/snake.svg" alt="Snake animation" />
+<img src="https://github.com/codewithmirza/codewithmirza/raw/output/dist/snake.svg" alt="Snake animation" />
+
 
 ###
