@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza Anwaarullah Baig</h1>
-<h3 align="center">I'm currently pursuing my bachelors in Computer Science from Osmania University. I'm an Open Source Enthusiast, Web Developer, Flutter App Developer and Programmer.</h3>
+<h3 align="center">I'm currently pursuing my bachelors in Computer Science from Osmania University, Hyderabad. I'm an Open Source Enthusiast, Web Developer, Flutter App Developer and Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmirza&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmirza" /> </p>
 
