@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Connect**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning & Entrepreneurship**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithmirza](https://github.com/codewithmirza)
 
