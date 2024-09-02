@@ -16,14 +16,6 @@
 
 - ⚡ Fun fact **The Magic You are looking for, is in the work you are avoiding.**
 
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithmirza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmirza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="245" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
