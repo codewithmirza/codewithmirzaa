@@ -4,14 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmirza&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmirza" /> </p>
 
 
-- 🔭 I’m currently working on **Connect**
-
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/codewithmirza](https://github.com/codewithmirza)
-
-- 💬 Ask me about **Web & App Development**
-
 - 📫 How to reach me **manwaarullahb@gmail.com**
 
 - ⚡ Fun fact **The Magic You are looking for, is in the work you are avoiding.**
