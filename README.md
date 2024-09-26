@@ -19,4 +19,5 @@
   <a href="https://www.linkedin.com/in/mirza-anwaarullah-baig-9710a525a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <iframe src="https://github.com/sponsors/codewithmirza/button" title="Sponsor codewithmirza" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 </div>
