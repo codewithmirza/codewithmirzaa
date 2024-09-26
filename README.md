@@ -20,4 +20,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-  <iframe src="https://github.com/sponsors/codewithmirza/button" title="Sponsor codewithmirza" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<div align="left">
+  <a href="https://github.com/sponsors/codewithmirza" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-GitHub-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" height="35" alt="sponsor logo" />
+  </a>
+</div>
